@@ -1,0 +1,30 @@
+.myRedClassSelector {
+ color: red;
+}  
+
+.myPurpleClassSelector {
+ color: purple;
+}  
+
+.myOrangeClassSelector {
+ color: orange;
+}  
+
+.myYellowClassSelector {
+ color: yellow;
+}  
+
+
+section {
+  float: left;
+   margin: 0 1.5%;
+  width: 63%;
+}
+aside {
+  float: right;
+  position: relative;
+  margin:0%;
+  width: 50%;
+  top: -720px;
+  height: 2000px;
+}
